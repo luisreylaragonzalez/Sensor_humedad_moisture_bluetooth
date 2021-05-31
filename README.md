@@ -21,8 +21,9 @@ Solo se debe enviar un caracter del movil al esp32 para recibir los datos que en
 
 <p>
   Videos de youtube relacionados y tomados como ejemplo: <p>
-  https://www.youtube.com/watch?v=nwuxZL9ktRk&t=135s
+https://www.youtube.com/watch?v=nwuxZL9ktRk&t=135s
     <p>
-      https://randomnerdtutorials.com/esp32-bluetooth-classic-arduino-ide/
+https://randomnerdtutorials.com/esp32-bluetooth-classic-arduino-ide/
       <p>
-      
+http://www.esp32learning.com/code/esp32-and-soil-moisture-sensor-example.php
+        <p>
