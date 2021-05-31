@@ -18,3 +18,10 @@ Después de vincularlo, en la aplicación se busca el id_del_Bluetooth y se conn
 Solo se debe enviar un caracter del movil al esp32 para recibir los datos que envía el sensor.
 
 
+<p>
+  Videos de youtube relacionados y tomados como ejemplo: <p>
+  https://www.youtube.com/watch?v=nwuxZL9ktRk&t=135s
+    <p>
+      https://randomnerdtutorials.com/esp32-bluetooth-classic-arduino-ide/
+      <p>
+      
