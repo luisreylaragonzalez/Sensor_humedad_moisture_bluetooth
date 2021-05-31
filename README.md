@@ -2,6 +2,7 @@
 Proyecto de Sensor de humedad moisture + bluetooth
 <H1>
 En este proyecto se utiliza: Esp32 + sensor capacitative Soil Moisture Sensor 2.0 + bluetooth
+  </H1>
 <p>
 Se documenta codigo <p>
 Se adjuntan imágenes<p>
