@@ -1,16 +1,16 @@
 # Sensor_humedad_moisture_bluetooth
 Proyecto de Sensor de humedad moisture + bluetooth
-
+<H1>
 En este proyecto se utiliza: Esp32 + sensor capacitative Soil Moisture Sensor 2.0 + bluetooth
+<p>
+Se documenta codigo <p>
+Se adjuntan imágenes<p>
+El sensor emite el valor de 3632 cuando está seco<p>
+El sensor emite el valor de 1354 cuando se encuentra dentro de agua<p>
+Se saca el porcentaje tomando en cuenta los valores anteriores<p>
 
-Se documenta codigo 
-Se adjuntan imágenes
-El sensor emite el valor de 3632 cuando está seco
-El sensor emite el valor de 1354 cuando se encuentra dentro de agua
-Se saca el porcentaje tomando en cuenta los valores anteriores
-
-El código emite la cadena string completa cuando se utiliza el método SerialBT.println
-En caso de utilizar el metodo "SerialBT.write" se tuvo problemas con las cadenas.
+El código emite la cadena string completa cuando se utiliza el método SerialBT.println<p>
+En caso de utilizar el metodo "SerialBT.write" se tuvo problemas con las cadenas.<p>
 
 Se descarga la aplicación de Google Store "Bluetooth Terminal" y se instala en el movil <p>
 Se tiene que vincular el movil con el Bueltooth del esp32<p>
