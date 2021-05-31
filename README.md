@@ -12,8 +12,8 @@ Se saca el porcentaje tomando en cuenta los valores anteriores
 El código emite la cadena string completa cuando se utiliza el método SerialBT.println
 En caso de utilizar el metodo "SerialBT.write" se tuvo problemas con las cadenas.
 
-Se descarga la aplicación de Google Store "Bluetooth Terminal" y se instala en el movil 
-Se tiene que vincular el movil con el Bueltooth del esp32
+Se descarga la aplicación de Google Store "Bluetooth Terminal" y se instala en el movil <p>
+Se tiene que vincular el movil con el Bueltooth del esp32<p>
 Después de vincularlo, en la aplicación se busca el id_del_Bluetooth y se connecta
 Solo se debe enviar un caracter del movil al esp32 para recibir los datos que envía el sensor.
 
